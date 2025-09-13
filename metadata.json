@@ -1,0 +1,8 @@
+{
+  "name": "Facial Time Machine",
+  "description": "Upload or take a photo of a face, and use generative AI to see what that person might look like at a different age or in a different profession.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
